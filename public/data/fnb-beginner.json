@@ -1,0 +1,207 @@
+{
+  "category": "Food & Beverage",
+  "level": "beginner",
+  "description": "Questions focused on discussing simple topics about food and drink preferences and experiences.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is your favorite food?"
+    },
+    {
+      "id": 2,
+      "question": "Do you like spicy food?"
+    },
+    {
+      "id": 3,
+      "question": "What is your favorite drink?"
+    },
+    {
+      "id": 4,
+      "question": "Can you name a fruit you like?"
+    },
+    {
+      "id": 5,
+      "question": "Do you prefer coffee or tea?"
+    },
+    {
+      "id": 6,
+      "question": "What do you usually eat for breakfast?"
+    },
+    {
+      "id": 7,
+      "question": "What is your favorite snack?"
+    },
+    {
+      "id": 8,
+      "question": "Do you like trying new foods?"
+    },
+    {
+      "id": 9,
+      "question": "What is a popular dish in your country?"
+    },
+    {
+      "id": 10,
+      "question": "Do you prefer sweet or salty snacks?"
+    },
+    {
+      "id": 11,
+      "question": "What is your favorite dessert?"
+    },
+    {
+      "id": 12,
+      "question": "Do you like to cook?"
+    },
+    {
+      "id": 13,
+      "question": "What is the best meal you have ever had?"
+    },
+    {
+      "id": 14,
+      "question": "Do you eat vegetables every day?"
+    },
+    {
+      "id": 15,
+      "question": "What is your favorite fast food?"
+    },
+    {
+      "id": 16,
+      "question": "Do you drink soda often?"
+    },
+    {
+      "id": 17,
+      "question": "What is your favorite soup?"
+    },
+    {
+      "id": 18,
+      "question": "Can you name a food you don’t like?"
+    },
+    {
+      "id": 19,
+      "question": "What is your favorite ice cream flavor?"
+    },
+    {
+      "id": 20,
+      "question": "Do you eat bread every day?"
+    },
+    {
+      "id": 21,
+      "question": "Do you like drinking milk?"
+    },
+    {
+      "id": 22,
+      "question": "What is your favorite type of sandwich?"
+    },
+    {
+      "id": 23,
+      "question": "Can you name a traditional food from your region?"
+    },
+    {
+      "id": 24,
+      "question": "Do you eat rice or pasta more often?"
+    },
+    {
+      "id": 25,
+      "question": "Do you like eating in restaurants?"
+    },
+    {
+      "id": 26,
+      "question": "What do you like to drink with dinner?"
+    },
+    {
+      "id": 27,
+      "question": "Do you have a favorite pizza topping?"
+    },
+    {
+      "id": 28,
+      "question": "Can you name a food you want to try?"
+    },
+    {
+      "id": 29,
+      "question": "Do you like chocolate?"
+    },
+    {
+      "id": 30,
+      "question": "What is your favorite meal of the day?"
+    },
+    {
+      "id": 31,
+      "question": "Do you like eating seafood?"
+    },
+    {
+      "id": 32,
+      "question": "Do you eat meat?"
+    },
+    {
+      "id": 33,
+      "question": "What is your favorite restaurant?"
+    },
+    {
+      "id": 34,
+      "question": "Do you like eating salads?"
+    },
+    {
+      "id": 35,
+      "question": "Can you name a drink you don’t like?"
+    },
+    {
+      "id": 36,
+      "question": "What is your favorite flavor of chips?"
+    },
+    {
+      "id": 37,
+      "question": "Do you like spicy snacks?"
+    },
+    {
+      "id": 38,
+      "question": "What is your favorite type of cake?"
+    },
+    {
+      "id": 39,
+      "question": "Do you prefer eating at home or outside?"
+    },
+    {
+      "id": 40,
+      "question": "Do you like drinking juice?"
+    },
+    {
+      "id": 41,
+      "question": "What is your favorite fruit juice?"
+    },
+    {
+      "id": 42,
+      "question": "Can you name a type of cheese you like?"
+    },
+    {
+      "id": 43,
+      "question": "Do you like eating pancakes?"
+    },
+    {
+      "id": 44,
+      "question": "What is your favorite way to cook eggs?"
+    },
+    {
+      "id": 45,
+      "question": "Do you like drinking hot chocolate?"
+    },
+    {
+      "id": 46,
+      "question": "What is your favorite type of bread?"
+    },
+    {
+      "id": 47,
+      "question": "Do you like eating noodles?"
+    },
+    {
+      "id": 48,
+      "question": "What is your favorite way to eat potatoes?"
+    },
+    {
+      "id": 49,
+      "question": "Do you like eating burgers?"
+    },
+    {
+      "id": 50,
+      "question": "What is a drink you enjoy during the summer?"
+    }
+  ]
+}

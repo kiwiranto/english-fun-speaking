@@ -1,0 +1,207 @@
+{
+  "category": "Food & Beverage",
+  "level": "advanced",
+  "description": "In-depth questions about food and beverage, focusing on cultural, personal, and global perspectives.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Can you describe a dish you created that you're most proud of and explain why?"
+    },
+    {
+      "id": 2,
+      "question": "How do you think food trends influence the way people eat globally?"
+    },
+    {
+      "id": 3,
+      "question": "What role does food play in bringing people from different cultures together?"
+    },
+    {
+      "id": 4,
+      "question": "Can you discuss the ethical implications of food production in modern society?"
+    },
+    {
+      "id": 5,
+      "question": "What is your opinion on the rise of plant-based diets and their impact on the environment?"
+    },
+    {
+      "id": 6,
+      "question": "How do you think globalization has affected traditional cuisines around the world?"
+    },
+    {
+      "id": 7,
+      "question": "What strategies do you use to explore local cuisines when traveling?"
+    },
+    {
+      "id": 8,
+      "question": "Can you explain how climate change is influencing food availability and security?"
+    },
+    {
+      "id": 9,
+      "question": "What is your perspective on the cultural significance of food rituals or traditions?"
+    },
+    {
+      "id": 10,
+      "question": "Can you describe a dining experience that changed your perspective on food or culture?"
+    },
+    {
+      "id": 11,
+      "question": "What is the most exotic food or drink you have ever tried, and how did you feel about it?"
+    },
+    {
+      "id": 12,
+      "question": "How do you decide whether to try a new recipe or stick with a familiar dish?"
+    },
+    {
+      "id": 13,
+      "question": "What do you think are the key challenges in addressing food waste globally?"
+    },
+    {
+      "id": 14,
+      "question": "Can you compare the dining etiquettes of two different cultures you are familiar with?"
+    },
+    {
+      "id": 15,
+      "question": "What role does storytelling play in sharing recipes and food traditions?"
+    },
+    {
+      "id": 16,
+      "question": "How do food advertisements influence our eating habits, in your opinion?"
+    },
+    {
+      "id": 17,
+      "question": "Can you discuss the health impacts of fast food and strategies to mitigate them?"
+    },
+    {
+      "id": 18,
+      "question": "What is your approach to experimenting with ingredients to create unique dishes?"
+    },
+    {
+      "id": 19,
+      "question": "How do you balance taste and nutrition in your meals?"
+    },
+    {
+      "id": 20,
+      "question": "Can you share a memory of a meal that had a deep emotional significance for you?"
+    },
+    {
+      "id": 21,
+      "question": "What do you think is the future of food technology, such as lab-grown meat?"
+    },
+    {
+      "id": 22,
+      "question": "Can you describe a time when you had to accommodate someone else's dietary restrictions?"
+    },
+    {
+      "id": 23,
+      "question": "How do you think social media platforms have changed the way we discover and share food?"
+    },
+    {
+      "id": 24,
+      "question": "What role do beverages play in enhancing the dining experience, in your view?"
+    },
+    {
+      "id": 25,
+      "question": "How do you think food documentaries impact public awareness of food-related issues?"
+    },
+    {
+      "id": 26,
+      "question": "Can you explain how seasonal ingredients affect the dishes you prepare?"
+    },
+    {
+      "id": 27,
+      "question": "What are your thoughts on fusion cuisine and its role in modern gastronomy?"
+    },
+    {
+      "id": 28,
+      "question": "How do you think food presentation impacts our perception of taste?"
+    },
+    {
+      "id": 29,
+      "question": "Can you share a story about a meal that brought your family closer together?"
+    },
+    {
+      "id": 30,
+      "question": "What is your opinion on the role of chefs as influencers in the culinary world?"
+    },
+    {
+      "id": 31,
+      "question": "What do you think is the significance of local markets in preserving food culture?"
+    },
+    {
+      "id": 32,
+      "question": "How do you think our food choices reflect our personal values?"
+    },
+    {
+      "id": 33,
+      "question": "What is your approach to pairing wine or other beverages with food?"
+    },
+    {
+      "id": 34,
+      "question": "Can you discuss a regional dish that tells a story about its origins?"
+    },
+    {
+      "id": 35,
+      "question": "What role does hospitality play in your dining experiences?"
+    },
+    {
+      "id": 36,
+      "question": "How do you think urbanization has influenced the way we eat?"
+    },
+    {
+      "id": 37,
+      "question": "Can you describe a food or drink innovation that you find particularly fascinating?"
+    },
+    {
+      "id": 38,
+      "question": "What strategies do you use to recreate a dish you enjoyed at a restaurant?"
+    },
+    {
+      "id": 39,
+      "question": "How do you handle situations where you dislike a dish you are served?"
+    },
+    {
+      "id": 40,
+      "question": "What are the environmental implications of our beverage choices, in your opinion?"
+    },
+    {
+      "id": 41,
+      "question": "Can you share a moment when you learned a valuable cooking technique from someone?"
+    },
+    {
+      "id": 42,
+      "question": "What role do festivals and celebrations play in the evolution of food traditions?"
+    },
+    {
+      "id": 43,
+      "question": "How do you approach cooking or trying dishes from cultures you are not familiar with?"
+    },
+    {
+      "id": 44,
+      "question": "What is your opinion on the role of storytelling in food branding?"
+    },
+    {
+      "id": 45,
+      "question": "Can you discuss the ways in which food connects people emotionally and socially?"
+    },
+    {
+      "id": 46,
+      "question": "What are your thoughts on the evolution of fast-casual dining establishments?"
+    },
+    {
+      "id": 47,
+      "question": "How do you experiment with spices and seasonings to enhance your cooking?"
+    },
+    {
+      "id": 48,
+      "question": "What is your perspective on the role of artisan food products in today's market?"
+    },
+    {
+      "id": 49,
+      "question": "Can you describe the most complex dish you have ever prepared and how you managed it?"
+    },
+    {
+      "id": 50,
+      "question": "What do you think is the most important aspect of hospitality in the food industry?"
+    }
+  ]
+}

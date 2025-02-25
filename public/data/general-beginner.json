@@ -1,0 +1,207 @@
+{
+  "category": "general",
+  "level": "beginner",
+  "description": "50 pertanyaan untuk pemula, seperti memperkenalkan diri, keluarga, dan hal-hal sederhana sehari-hari.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is your name?"
+    },
+    {
+      "id": 2,
+      "question": "How old are you?"
+    },
+    {
+      "id": 3,
+      "question": "Where are you from?"
+    },
+    {
+      "id": 4,
+      "question": "What is your favorite color?"
+    },
+    {
+      "id": 5,
+      "question": "Do you have any siblings?"
+    },
+    {
+      "id": 6,
+      "question": "What is your favorite food?"
+    },
+    {
+      "id": 7,
+      "question": "What do you like to do in your free time?"
+    },
+    {
+      "id": 8,
+      "question": "Can you describe your best friend?"
+    },
+    {
+      "id": 9,
+      "question": "What is your favorite animal?"
+    },
+    {
+      "id": 10,
+      "question": "What do you do every morning?"
+    },
+    {
+      "id": 11,
+      "question": "Can you tell me about your family?"
+    },
+    {
+      "id": 12,
+      "question": "What is your favorite season?"
+    },
+    {
+      "id": 13,
+      "question": "What time do you usually wake up?"
+    },
+    {
+      "id": 14,
+      "question": "Do you have a pet? What is it?"
+    },
+    {
+      "id": 15,
+      "question": "What is your favorite subject at school?"
+    },
+    {
+      "id": 16,
+      "question": "What is your favorite drink?"
+    },
+    {
+      "id": 17,
+      "question": "What kind of music do you like?"
+    },
+    {
+      "id": 18,
+      "question": "Can you name a country you want to visit?"
+    },
+    {
+      "id": 19,
+      "question": "What is your favorite sport?"
+    },
+    {
+      "id": 20,
+      "question": "What do you usually eat for breakfast?"
+    },
+    {
+      "id": 21,
+      "question": "What is your hobby?"
+    },
+    {
+      "id": 22,
+      "question": "Do you like reading books? Which one is your favorite?"
+    },
+    {
+      "id": 23,
+      "question": "What is your favorite movie?"
+    },
+    {
+      "id": 24,
+      "question": "Do you like playing video games? Which one is your favorite?"
+    },
+    {
+      "id": 25,
+      "question": "Can you describe your favorite toy?"
+    },
+    {
+      "id": 26,
+      "question": "What do you like to do on weekends?"
+    },
+    {
+      "id": 27,
+      "question": "Can you name your favorite holiday?"
+    },
+    {
+      "id": 28,
+      "question": "What is your favorite fruit?"
+    },
+    {
+      "id": 29,
+      "question": "What do you usually wear to school or work?"
+    },
+    {
+      "id": 30,
+      "question": "Can you describe your house?"
+    },
+    {
+      "id": 31,
+      "question": "Do you like drawing or painting? What do you draw?"
+    },
+    {
+      "id": 32,
+      "question": "What is your favorite TV show?"
+    },
+    {
+      "id": 33,
+      "question": "Can you name a friend from school or work?"
+    },
+    {
+      "id": 34,
+      "question": "What do you do before going to bed?"
+    },
+    {
+      "id": 35,
+      "question": "Do you like dancing? Can you describe a dance you know?"
+    },
+    {
+      "id": 36,
+      "question": "What is your favorite dessert?"
+    },
+    {
+      "id": 37,
+      "question": "Do you like traveling? Where did you go last time?"
+    },
+    {
+      "id": 38,
+      "question": "Can you describe your favorite book?"
+    },
+    {
+      "id": 39,
+      "question": "What is your favorite game?"
+    },
+    {
+      "id": 40,
+      "question": "Do you like camping? Have you ever been camping?"
+    },
+    {
+      "id": 41,
+      "question": "What is your favorite place in your town?"
+    },
+    {
+      "id": 42,
+      "question": "Can you name your favorite teacher?"
+    },
+    {
+      "id": 43,
+      "question": "What do you usually do during holidays?"
+    },
+    {
+      "id": 44,
+      "question": "What is your favorite vegetable?"
+    },
+    {
+      "id": 45,
+      "question": "Do you like swimming? Where do you swim?"
+    },
+    {
+      "id": 46,
+      "question": "What do you want to be when you grow up?"
+    },
+    {
+      "id": 47,
+      "question": "Do you have a favorite teacher? What subject do they teach?"
+    },
+    {
+      "id": 48,
+      "question": "What is your favorite park or playground?"
+    },
+    {
+      "id": 49,
+      "question": "Do you like shopping? What do you usually buy?"
+    },
+    {
+      "id": 50,
+      "question": "What do you usually do after school or work?"
+    }
+  ]
+}

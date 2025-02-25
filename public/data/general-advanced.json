@@ -1,0 +1,207 @@
+{
+  "category": "general",
+  "level": "advanced",
+  "description": "50 pertanyaan tingkat lanjut, seperti diskusi topik abstrak, pemecahan masalah, atau situasi yang lebih formal.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If you could live anywhere in the world, where would it be and why?"
+    },
+    {
+      "id": 2,
+      "question": "Can you explain the importance of education in today's society?"
+    },
+    {
+      "id": 3,
+      "question": "What are some challenges your country faces, and how can they be solved?"
+    },
+    {
+      "id": 4,
+      "question": "What is your opinion on the impact of technology on human relationships?"
+    },
+    {
+      "id": 5,
+      "question": "Can you describe a historical event that changed the world?"
+    },
+    {
+      "id": 6,
+      "question": "What qualities make a great leader, in your opinion?"
+    },
+    {
+      "id": 7,
+      "question": "How would you explain the concept of global warming to someone?"
+    },
+    {
+      "id": 8,
+      "question": "What do you think are the advantages and disadvantages of social media?"
+    },
+    {
+      "id": 9,
+      "question": "If you could start a business, what kind of business would it be and why?"
+    },
+    {
+      "id": 10,
+      "question": "What are the most significant challenges young people face today?"
+    },
+    {
+      "id": 11,
+      "question": "How do you think traveling can change a person's perspective?"
+    },
+    {
+      "id": 12,
+      "question": "What would you do if you won a million dollars?"
+    },
+    {
+      "id": 13,
+      "question": "Can you discuss the pros and cons of working from home?"
+    },
+    {
+      "id": 14,
+      "question": "What is your opinion on the role of art in society?"
+    },
+    {
+      "id": 15,
+      "question": "How would you describe your dream house?"
+    },
+    {
+      "id": 16,
+      "question": "If you could invent something new, what would it be?"
+    },
+    {
+      "id": 17,
+      "question": "What is the most important lesson you have learned in life?"
+    },
+    {
+      "id": 18,
+      "question": "How would you explain the importance of mental health to someone?"
+    },
+    {
+      "id": 19,
+      "question": "What are the main benefits of learning a second language?"
+    },
+    {
+      "id": 20,
+      "question": "Can you describe a time when you had to make a difficult decision?"
+    },
+    {
+      "id": 21,
+      "question": "What are your thoughts on environmental conservation?"
+    },
+    {
+      "id": 22,
+      "question": "What do you think makes a movie or book truly great?"
+    },
+    {
+      "id": 23,
+      "question": "If you could meet any historical figure, who would it be and why?"
+    },
+    {
+      "id": 24,
+      "question": "What is your opinion on space exploration?"
+    },
+    {
+      "id": 25,
+      "question": "How would you describe the culture of your country to a foreigner?"
+    },
+    {
+      "id": 26,
+      "question": "What are the most important skills for success in today's world?"
+    },
+    {
+      "id": 27,
+      "question": "What do you think is the best way to handle stress?"
+    },
+    {
+      "id": 28,
+      "question": "If you could change one thing about the world, what would it be?"
+    },
+    {
+      "id": 29,
+      "question": "Can you describe a moment when you felt truly happy?"
+    },
+    {
+      "id": 30,
+      "question": "What do you think are the key factors for a healthy lifestyle?"
+    },
+    {
+      "id": 31,
+      "question": "What is your opinion on the role of technology in education?"
+    },
+    {
+      "id": 32,
+      "question": "How would you define success in your own words?"
+    },
+    {
+      "id": 33,
+      "question": "What are your thoughts on the importance of volunteering?"
+    },
+    {
+      "id": 34,
+      "question": "If you could learn any skill instantly, what would it be?"
+    },
+    {
+      "id": 35,
+      "question": "What is your favorite way to spend a day off?"
+    },
+    {
+      "id": 36,
+      "question": "What is your opinion on the importance of teamwork?"
+    },
+    {
+      "id": 37,
+      "question": "What do you think is the best way to promote creativity?"
+    },
+    {
+      "id": 38,
+      "question": "Can you discuss the impact of music on people's emotions?"
+    },
+    {
+      "id": 39,
+      "question": "If you could spend a day with a famous person, who would it be?"
+    },
+    {
+      "id": 40,
+      "question": "What do you think are the biggest challenges of living in a big city?"
+    },
+    {
+      "id": 41,
+      "question": "How would you describe your ideal vacation?"
+    },
+    {
+      "id": 42,
+      "question": "What are your thoughts on the importance of recycling?"
+    },
+    {
+      "id": 43,
+      "question": "Can you discuss the impact of books on your life?"
+    },
+    {
+      "id": 44,
+      "question": "What do you think is the most important invention of the 21st century?"
+    },
+    {
+      "id": 45,
+      "question": "How would you describe the perfect weekend?"
+    },
+    {
+      "id": 46,
+      "question": "What are the most important things to consider when choosing a career?"
+    },
+    {
+      "id": 47,
+      "question": "If you could write a book, what would it be about?"
+    },
+    {
+      "id": 48,
+      "question": "What do you think are the benefits of traveling to different countries?"
+    },
+    {
+      "id": 49,
+      "question": "What is the best advice you have ever received?"
+    },
+    {
+      "id": 50,
+      "question": "Can you describe an experience that changed your perspective on life?"
+    }
+  ]
+}

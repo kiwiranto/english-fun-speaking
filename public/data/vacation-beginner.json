@@ -1,0 +1,207 @@
+{
+  "category": "vacation",
+  "level": "beginner",
+  "description": "Simple vacation-related questions to encourage basic conversation skills.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where do you like to go on vacation?"
+    },
+    {
+      "id": 2,
+      "question": "What is your favorite thing to do on holiday?"
+    },
+    {
+      "id": 3,
+      "question": "Do you prefer the beach or the mountains?"
+    },
+    {
+      "id": 4,
+      "question": "Have you ever gone camping?"
+    },
+    {
+      "id": 5,
+      "question": "What do you usually pack for a trip?"
+    },
+    {
+      "id": 6,
+      "question": "Do you like traveling by plane?"
+    },
+    {
+      "id": 7,
+      "question": "What is your favorite snack to bring on a trip?"
+    },
+    {
+      "id": 8,
+      "question": "Have you ever visited a famous landmark?"
+    },
+    {
+      "id": 9,
+      "question": "Do you like taking pictures when traveling?"
+    },
+    {
+      "id": 10,
+      "question": "What is your favorite season to go on vacation?"
+    },
+    {
+      "id": 11,
+      "question": "Do you like to buy souvenirs?"
+    },
+    {
+      "id": 12,
+      "question": "What is the longest trip you have been on?"
+    },
+    {
+      "id": 13,
+      "question": "Do you prefer traveling with family or friends?"
+    },
+    {
+      "id": 14,
+      "question": "Have you ever stayed in a hotel?"
+    },
+    {
+      "id": 15,
+      "question": "What is your favorite place to visit in your country?"
+    },
+    {
+      "id": 16,
+      "question": "Do you like visiting theme parks?"
+    },
+    {
+      "id": 17,
+      "question": "What is your favorite way to travel (car, train, bus)?"
+    },
+    {
+      "id": 18,
+      "question": "Have you ever traveled by train?"
+    },
+    {
+      "id": 19,
+      "question": "What do you like to do during a long trip?"
+    },
+    {
+      "id": 20,
+      "question": "Have you ever gone to a zoo on vacation?"
+    },
+    {
+      "id": 21,
+      "question": "Do you like visiting museums?"
+    },
+    {
+      "id": 22,
+      "question": "What is your favorite outdoor activity on vacation?"
+    },
+    {
+      "id": 23,
+      "question": "Do you like trying new foods when traveling?"
+    },
+    {
+      "id": 24,
+      "question": "What is your favorite drink to have on vacation?"
+    },
+    {
+      "id": 25,
+      "question": "Have you ever visited a farm?"
+    },
+    {
+      "id": 26,
+      "question": "Do you enjoy going to the beach?"
+    },
+    {
+      "id": 27,
+      "question": "Have you ever gone hiking?"
+    },
+    {
+      "id": 28,
+      "question": "Do you prefer hot or cold destinations?"
+    },
+    {
+      "id": 29,
+      "question": "What is your favorite thing to do at the beach?"
+    },
+    {
+      "id": 30,
+      "question": "Do you like visiting new cities?"
+    },
+    {
+      "id": 31,
+      "question": "What do you usually eat for breakfast on vacation?"
+    },
+    {
+      "id": 32,
+      "question": "Have you ever seen a waterfall?"
+    },
+    {
+      "id": 33,
+      "question": "What is your favorite ice cream flavor on holiday?"
+    },
+    {
+      "id": 34,
+      "question": "Do you like to relax or explore on vacation?"
+    },
+    {
+      "id": 35,
+      "question": "Have you ever visited a castle?"
+    },
+    {
+      "id": 36,
+      "question": "What is your favorite park to visit?"
+    },
+    {
+      "id": 37,
+      "question": "Do you like to swim on vacation?"
+    },
+    {
+      "id": 38,
+      "question": "What is your favorite way to enjoy nature?"
+    },
+    {
+      "id": 39,
+      "question": "Have you ever visited a famous mountain?"
+    },
+    {
+      "id": 40,
+      "question": "What do you like to do on a rainy vacation day?"
+    },
+    {
+      "id": 41,
+      "question": "Do you prefer short or long vacations?"
+    },
+    {
+      "id": 42,
+      "question": "Have you ever visited a lighthouse?"
+    },
+    {
+      "id": 43,
+      "question": "What do you like to eat at the beach?"
+    },
+    {
+      "id": 44,
+      "question": "Do you like to watch the sunset on vacation?"
+    },
+    {
+      "id": 45,
+      "question": "Have you ever gone fishing?"
+    },
+    {
+      "id": 46,
+      "question": "What is your favorite time of day on vacation?"
+    },
+    {
+      "id": 47,
+      "question": "Do you like to take naps during holidays?"
+    },
+    {
+      "id": 48,
+      "question": "Have you ever visited a desert?"
+    },
+    {
+      "id": 49,
+      "question": "What is your favorite souvenir from a trip?"
+    },
+    {
+      "id": 50,
+      "question": "Do you like to watch movies during a trip?"
+    }
+  ]
+}

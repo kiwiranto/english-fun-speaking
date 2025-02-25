@@ -1,0 +1,207 @@
+{
+  "category": "vacation",
+  "level": "intermediate",
+  "description": "Questions focused on vacation and travel experiences to inspire detailed and reflective answers.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Can you describe your most memorable vacation?"
+    },
+    {
+      "id": 2,
+      "question": "What is your dream travel destination and why?"
+    },
+    {
+      "id": 3,
+      "question": "Can you explain the process of planning a perfect trip?"
+    },
+    {
+      "id": 4,
+      "question": "What do you usually pack when traveling to a new place?"
+    },
+    {
+      "id": 5,
+      "question": "Can you share an unexpected experience you had while traveling?"
+    },
+    {
+      "id": 6,
+      "question": "What is the most interesting food you have tried on vacation?"
+    },
+    {
+      "id": 7,
+      "question": "How do you usually decide where to go on vacation?"
+    },
+    {
+      "id": 8,
+      "question": "What is the best mode of transportation for long trips?"
+    },
+    {
+      "id": 9,
+      "question": "Can you describe your ideal travel companion?"
+    },
+    {
+      "id": 10,
+      "question": "What is a travel mistake you have learned from?"
+    },
+    {
+      "id": 11,
+      "question": "Can you share tips for saving money while traveling?"
+    },
+    {
+      "id": 12,
+      "question": "What do you usually do to prepare for a long flight?"
+    },
+    {
+      "id": 13,
+      "question": "Can you describe a cultural experience you had during a trip?"
+    },
+    {
+      "id": 14,
+      "question": "What do you think is the best way to explore a new city?"
+    },
+    {
+      "id": 15,
+      "question": "What is your favorite type of accommodation when traveling?"
+    },
+    {
+      "id": 16,
+      "question": "Can you describe a time you got lost while traveling?"
+    },
+    {
+      "id": 17,
+      "question": "What is the most scenic place you have ever visited?"
+    },
+    {
+      "id": 18,
+      "question": "How do you like to spend your time at the airport?"
+    },
+    {
+      "id": 19,
+      "question": "Can you share a funny or unusual travel story?"
+    },
+    {
+      "id": 20,
+      "question": "What is your favorite activity to do on vacation?"
+    },
+    {
+      "id": 21,
+      "question": "What is the longest trip you have ever taken?"
+    },
+    {
+      "id": 22,
+      "question": "Can you describe the difference between a tourist and a traveler?"
+    },
+    {
+      "id": 23,
+      "question": "What is your opinion on group tours versus solo travel?"
+    },
+    {
+      "id": 24,
+      "question": "What do you usually buy as souvenirs from a trip?"
+    },
+    {
+      "id": 25,
+      "question": "Can you describe an outdoor activity you enjoy on vacation?"
+    },
+    {
+      "id": 26,
+      "question": "What is your favorite travel memory with your family?"
+    },
+    {
+      "id": 27,
+      "question": "Can you explain how to stay healthy while traveling?"
+    },
+    {
+      "id": 28,
+      "question": "What do you usually do when you have free time during a trip?"
+    },
+    {
+      "id": 29,
+      "question": "What is your favorite way to document your travel experiences?"
+    },
+    {
+      "id": 30,
+      "question": "Can you describe a travel experience that changed your perspective?"
+    },
+    {
+      "id": 31,
+      "question": "What do you think is the best way to learn about a new culture?"
+    },
+    {
+      "id": 32,
+      "question": "What is a travel tradition you have with your friends or family?"
+    },
+    {
+      "id": 33,
+      "question": "Can you describe a natural wonder you have seen?"
+    },
+    {
+      "id": 34,
+      "question": "What do you like to do on a beach vacation?"
+    },
+    {
+      "id": 35,
+      "question": "Can you share a tip for avoiding travel stress?"
+    },
+    {
+      "id": 36,
+      "question": "What do you usually look for when choosing a travel destination?"
+    },
+    {
+      "id": 37,
+      "question": "Can you describe a festival or event you have attended on vacation?"
+    },
+    {
+      "id": 38,
+      "question": "What is your favorite way to meet new people while traveling?"
+    },
+    {
+      "id": 39,
+      "question": "Can you explain how to make the most of a short trip?"
+    },
+    {
+      "id": 40,
+      "question": "What is your favorite way to try local food on a trip?"
+    },
+    {
+      "id": 41,
+      "question": "What do you think is the best way to travel on a budget?"
+    },
+    {
+      "id": 42,
+      "question": "Can you describe a time you helped someone while traveling?"
+    },
+    {
+      "id": 43,
+      "question": "What is your opinion on eco-friendly travel?"
+    },
+    {
+      "id": 44,
+      "question": "Can you describe a time you faced a language barrier on a trip?"
+    },
+    {
+      "id": 45,
+      "question": "What do you usually do when visiting a historical site?"
+    },
+    {
+      "id": 46,
+      "question": "What is your opinion on traveling during off-peak seasons?"
+    },
+    {
+      "id": 47,
+      "question": "Can you describe a travel habit you would like to change?"
+    },
+    {
+      "id": 48,
+      "question": "What do you think is the most important thing to bring on a trip?"
+    },
+    {
+      "id": 49,
+      "question": "Can you explain how to stay safe while traveling alone?"
+    },
+    {
+      "id": 50,
+      "question": "What is the first thing you do when you arrive at a new destination?"
+    }
+  ]
+}

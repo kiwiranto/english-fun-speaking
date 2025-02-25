@@ -1,0 +1,207 @@
+{
+  "category": "Food & Beverage",
+  "level": "intermediate",
+  "description": "Questions designed to discuss preferences, cooking habits, and memorable experiences related to food and beverages.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is your favorite type of cuisine, and why?"
+    },
+    {
+      "id": 2,
+      "question": "Can you describe a memorable meal you had at a restaurant?"
+    },
+    {
+      "id": 3,
+      "question": "What is a dish you know how to cook well, and how do you prepare it?"
+    },
+    {
+      "id": 4,
+      "question": "What is your go-to drink order at a coffee shop or restaurant?"
+    },
+    {
+      "id": 5,
+      "question": "Can you explain the importance of food presentation in your dining experience?"
+    },
+    {
+      "id": 6,
+      "question": "What is a traditional dish from your country that you recommend everyone try?"
+    },
+    {
+      "id": 7,
+      "question": "What is the most unusual food you have ever tried, and how did you feel about it?"
+    },
+    {
+      "id": 8,
+      "question": "Do you prefer sweet or savory snacks, and why?"
+    },
+    {
+      "id": 9,
+      "question": "How do you decide what to order when visiting a new restaurant?"
+    },
+    {
+      "id": 10,
+      "question": "Can you share a food-related tradition or celebration you enjoy?"
+    },
+    {
+      "id": 11,
+      "question": "What do you usually eat for breakfast, and how does it prepare you for the day?"
+    },
+    {
+      "id": 12,
+      "question": "How do you feel about trying street food while traveling?"
+    },
+    {
+      "id": 13,
+      "question": "What are some essential ingredients you always keep in your kitchen?"
+    },
+    {
+      "id": 14,
+      "question": "What is your favorite comfort food, and when do you usually eat it?"
+    },
+    {
+      "id": 15,
+      "question": "How do you usually celebrate special occasions with food?"
+    },
+    {
+      "id": 16,
+      "question": "Can you describe a drink that reminds you of your childhood?"
+    },
+    {
+      "id": 17,
+      "question": "What is your opinion on plant-based diets or vegan food?"
+    },
+    {
+      "id": 18,
+      "question": "How do you choose where to eat when dining out with friends?"
+    },
+    {
+      "id": 19,
+      "question": "What are your favorite toppings or flavors for ice cream?"
+    },
+    {
+      "id": 20,
+      "question": "How do you decide between trying something new and sticking with a favorite dish?"
+    },
+    {
+      "id": 21,
+      "question": "Can you share a time when you cooked for someone else? How did it go?"
+    },
+    {
+      "id": 22,
+      "question": "What do you think makes a meal healthy and balanced?"
+    },
+    {
+      "id": 23,
+      "question": "What is your favorite type of beverage to enjoy on a hot day?"
+    },
+    {
+      "id": 24,
+      "question": "How do you feel about dining alone at a restaurant?"
+    },
+    {
+      "id": 25,
+      "question": "What is your strategy for trying new foods you might not like?"
+    },
+    {
+      "id": 26,
+      "question": "What do you usually eat when you are feeling unwell?"
+    },
+    {
+      "id": 27,
+      "question": "What is the most expensive meal you have ever had? Was it worth it?"
+    },
+    {
+      "id": 28,
+      "question": "What are your thoughts on fast food versus home-cooked meals?"
+    },
+    {
+      "id": 29,
+      "question": "What is your favorite type of bread, and how do you like to eat it?"
+    },
+    {
+      "id": 30,
+      "question": "Can you describe a picnic or outdoor meal you enjoyed?"
+    },
+    {
+      "id": 31,
+      "question": "What is your favorite food to eat during a holiday or festival?"
+    },
+    {
+      "id": 32,
+      "question": "What are your thoughts on eating organic or locally sourced food?"
+    },
+    {
+      "id": 33,
+      "question": "What is your favorite dish to order at a buffet or all-you-can-eat restaurant?"
+    },
+    {
+      "id": 34,
+      "question": "What is a food or drink you used to dislike but now enjoy?"
+    },
+    {
+      "id": 35,
+      "question": "How do you usually spend time in the kitchen when preparing a meal?"
+    },
+    {
+      "id": 36,
+      "question": "What is your favorite type of food to share with friends?"
+    },
+    {
+      "id": 37,
+      "question": "What do you think makes a restaurant unique or memorable?"
+    },
+    {
+      "id": 38,
+      "question": "Can you share a time when you tried a recipe from a different culture?"
+    },
+    {
+      "id": 39,
+      "question": "What is your favorite type of dessert, and how often do you eat it?"
+    },
+    {
+      "id": 40,
+      "question": "What is a cooking technique you find interesting or want to learn?"
+    },
+    {
+      "id": 41,
+      "question": "How do you decide which restaurants to visit while traveling?"
+    },
+    {
+      "id": 42,
+      "question": "What is your favorite way to celebrate with food?"
+    },
+    {
+      "id": 43,
+      "question": "How do you handle food allergies or dietary restrictions when eating out?"
+    },
+    {
+      "id": 44,
+      "question": "What is your favorite type of soup, and when do you like to eat it?"
+    },
+    {
+      "id": 45,
+      "question": "Can you describe a meal that you associate with a happy memory?"
+    },
+    {
+      "id": 46,
+      "question": "What is your favorite way to enjoy coffee or tea?"
+    },
+    {
+      "id": 47,
+      "question": "What do you usually eat for lunch during a busy workday?"
+    },
+    {
+      "id": 48,
+      "question": "What do you think makes a great dining experience?"
+    },
+    {
+      "id": 49,
+      "question": "What is a regional dish you have always wanted to try?"
+    },
+    {
+      "id": 50,
+      "question": "Can you share a story about a time when food brought people together?"
+    }
+  ]
+}
