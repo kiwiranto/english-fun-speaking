@@ -1,3 +1,7 @@
+export const beginner = 'beginner';
+export const intermediate = 'intermediate';
+export const advanced = 'advanced';
+
 export const dataCategory = [
   {
     label: 'General',
@@ -18,17 +22,17 @@ export const dataCategory = [
 export const dataLevel = [
   {
     label: 'Beginner',
-    value: 'beginner',
+    value: beginner,
     disabled: false
   },
   {
     label: 'Intermediate',
-    value: 'intermediate',
+    value: intermediate,
     disabled: false
   },
   {
     label: 'Advanced',
-    value: 'advanced',
+    value: advanced,
     disabled: false
   }
 ]

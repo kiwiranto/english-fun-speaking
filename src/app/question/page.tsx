@@ -1,16 +1,24 @@
 "use client";
 import { useEffect, useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
 
 import Button from "@components/Button";
 import CardQuestion from "@components/CardQuestion";
 import Dropdown from "@components/Dropdown";
 import { dataCategory, dataLevel } from "./constant";
 import { DataQuestion, Question, SelectedCategory, SelectedLevel } from "./types";
+import { setDataQuestionUseCase } from "store/Question/action";
 import "./styles.scss";
 
 const Page = () => {
-  const [dataQuestion, setDataQuestion] = useState<DataQuestion | null>(null); // Initialize as null
-  const [questionSelected, setQuestion] = useState<Question | null>(null); // Initialize as null
+  const { dataQuestion } = useSelector(state => state?.question || {})
+  const dispatch = useDispatch();
+
+  // console.log('dataQuestion', dataQuestion);
+  console.log('dataQuestion?.description', dataQuestion?.description);
+
+  // const [dataQuestionState, setDataQuestionState] = useState<DataQuestion | null>(null); // Initialize as null
+  const [questionSelected, setQuestionSelected] = useState<Question | null>(null); // Initialize as null
   const [isAnimating, setIsAnimating] = useState(false); // State to track animation
   const [selectedCategory, setSelectedCategory] = useState<SelectedCategory>({
     label: 'General',
@@ -23,8 +31,12 @@ const Page = () => {
     disabled: false
   });
 
+  // console.log('dataQuestionState', dataQuestionState);
+
   useEffect(() => {
-    selectQuestionData(selectedCategory.value, selectedLevel.value)
+    if(!dataQuestion) {
+      selectQuestionData(selectedCategory.value, selectedLevel.value)
+    }
   }, [selectedCategory.value, selectedLevel.value]);
 
   const selectQuestionData = (category: string, level: string) => {
@@ -34,24 +46,29 @@ const Page = () => {
       .then(response => response.json())
       .then(data => {
         // console.log("Fetched data:", data);
-        setDataQuestion(data);
+        // setDataQuestionState(data);
+        setQuestionSelected(null);
+
+        dispatch(setDataQuestionUseCase(data))
       })
       .catch(error => console.error("Error:", error));
   }
-
   const pickQuestion = () => {
+    // if (!dataQuestionState || !dataQuestionState.questions.length) return;
     if (!dataQuestion || !dataQuestion.questions.length) return;
 
     setIsAnimating(true); // Start the animation
 
+    // const totalQuestion = dataQuestionState.questions.length;
     const totalQuestion = dataQuestion.questions.length;
-    const animationDuration = 3000; // Animation duration in ms
+    const animationDuration = 2500; // Animation duration in ms
     const intervalSpeed = 100; // Speed of random question switching
     let elapsedTime = 0;
 
     const interval = setInterval(() => {
       const randomIndex = Math.floor(Math.random() * totalQuestion);
-      setQuestion(dataQuestion.questions[randomIndex]); // Show random questions during animation
+      // setQuestionSelected(dataQuestionState.questions[randomIndex]); // Show random questions during animation
+      setQuestionSelected(dataQuestion.questions[randomIndex]); // Show random questions during animation
 
       elapsedTime += intervalSpeed;
       if (elapsedTime >= animationDuration) {
@@ -59,17 +76,24 @@ const Page = () => {
 
         // Set the final selected question
         const finalIndex = Math.floor(Math.random() * totalQuestion);
+        // const selectedQuestion = dataQuestionState.questions[finalIndex];
         const selectedQuestion = dataQuestion.questions[finalIndex];
-        setQuestion(selectedQuestion);
+        setQuestionSelected(selectedQuestion);
 
         // Remove the selected question from the array
+        // const remainingQuestions = dataQuestionState.questions.filter(
         const remainingQuestions = dataQuestion.questions.filter(
           (_, index) => index !== finalIndex
         );
-        setDataQuestion({
+
+        // setDataQuestionState({
+        //   ...dataQuestionState,
+        //   questions: remainingQuestions, // Update state with remaining questions
+        // });
+        dispatch(setDataQuestionUseCase({
           ...dataQuestion,
-          questions: remainingQuestions, // Update state with remaining questions
-        });
+          questions: remainingQuestions
+        }))
 
         setIsAnimating(false); // Stop the animation
       }
@@ -79,7 +103,7 @@ const Page = () => {
   return (
     <div className="page-container">
       <div className="content-container">
-        <h1 className="text-5xl mb-10 text-center">Welcome to the Question Page!</h1>
+        <h1 className="text-5xl mb-10 text-center">Welcome to the Question Page</h1>
 
         <div className="">
           <div className="mb-2 grid grid-cols-5 gap-4">
@@ -92,7 +116,7 @@ const Page = () => {
           </div>
           <div className="mb-2 grid grid-cols-5 gap-4">
             <span>Description:</span>
-            <span className="col-span-4">{dataQuestion?.description}</span>
+            <span className="col-span-4">{dataQuestion?.description || ''}</span>
           </div>
         </div>
       </div>
@@ -117,9 +141,9 @@ const Page = () => {
       <div className="question-container">
         <CardQuestion>
           {isAnimating ? (
-            <div className="animate-blink">{questionSelected?.question || "Loading..."}</div>
+            <div className="animate-blink text-lg">{questionSelected?.question || "Loading..."}</div>
           ) : (
-            <div>{questionSelected?.question || "No question selected"}</div>
+            <div className="text-lg">{questionSelected?.question || "No question selected"}</div>
           )}
         </CardQuestion>
 

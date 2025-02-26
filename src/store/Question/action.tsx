@@ -1,6 +1,7 @@
 import { createAction } from '@reduxjs/toolkit';
 import * as constant from './constant';
 
+export const setDataQuestionUseCase = createAction(constant.SET_DATA_QUESTION);
 export const setGeneralBeginnerUseCase = createAction(constant.SET_GENERAL_BEGINNER);
 export const setGeneralIntermediateUseCase = createAction(constant.SET_GENERAL_INTERMEDIATE);
 export const setGeneralAdvancedUseCase = createAction(constant.SET_GENERAL_ADVANCED);
